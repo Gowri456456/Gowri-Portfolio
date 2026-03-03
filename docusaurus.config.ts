@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'GOWRI K',
   tagline: 'Full Stack Developer | AI & IoT Enthusiast',
-  favicon: 'img/favicon.ico',
+  favicon: 'OIP.png',
 
   url: 'https://docusaurus-fork-main-5838d8b.kuberns.cloud',
   baseUrl: '/',
@@ -54,7 +54,7 @@ const config: Config = {
           position: 'left',
           label: 'Projects & Skills',
         },
-        {to: '/blog', label: 'Experience', position: 'left'},
+        {to: '/blog', position: 'left'},
         {
           href: 'https://github.com/Gowri456456',
           label: 'GitHub',
