@@ -12,7 +12,7 @@ const config: Config = {
 
   // GitHub configuration
   organizationName: 'Gowri456456', 
-  projectName: 'docusauras-starter-default',
+  projectName: 'Gowri-Portfolio',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -45,7 +45,7 @@ const config: Config = {
       title: 'GOWRI K',
       logo: {
         alt: 'Gowri Logo',
-        src: 'img/logo.svg',
+        src: 'OIP.png',
       },
       items: [
         {
